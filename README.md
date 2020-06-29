@@ -12,3 +12,9 @@ Contents :
    1.6 Quick Sort,
    1.7 Radix Sort,
    1.8 Selection Sort,
+   
+2. Graph
+   2.1 Adjacency List representation of a graph
+   2.2 BFS Traversal
+   2.3 DFS Traversal
+   2.4 Topological Sort 
